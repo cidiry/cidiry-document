@@ -1,0 +1,5 @@
+查询 amazon_asin_master_slave 数据表上一个小时的数据
+
+处理 dimensions_detail 字段，其中有子asin
+
+然后将主从关系以及详细描述 存入 amazon_dimensions_detail
